@@ -4,7 +4,7 @@ Financial statement analysis of The Boston Beer Company using Microsoft Excel, c
 
 ## Project Overview
 
-This project was completed for my Financial Analysis course and focuses on evaluating the financial performance of The Boston Beer Company.
+This semester-long project was completed for my Finance course and focused on evaluating the financial performance of The Boston Beer Company from 2021 through 2023.
 
 Using financial data from 2021 through 2023, I analyzed the company's financial statements to identify trends in its financial performance, liquidity, profitability, capital structure, cash flow, and overall financial position.
 
